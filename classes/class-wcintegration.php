@@ -13,7 +13,7 @@ class WC_Dropbox_Integration extends WC_Integration {
 
 		$this->id                 = 'woocommerce-dropbox';
 		$this->method_title       = __( 'Dropbox Integration', 'woocommerce-dropbox' );
-		$this->method_description = __( 'Easily add downloadable products right from your Dropbox folder. Before you can start using our plugin, you will need to make a Dropbox app.<br>Don\'t worry, it sounds more difficult than it actually is. Please carefully read <a href="#">these</a> instructions.', 'woocommerce-dropbox' );
+		$this->method_description = __( 'Easily add downloadable products right from your Dropbox folder. Before you can start using our plugin, you will need to make a Dropbox app.<br>Don\'t worry, it sounds more difficult than it actually is. Please carefully read <a href="http://wordpress.org/plugins/woocommerce-dropbox/installation/" target="_blank">these instructions</a>.', 'woocommerce-dropbox' );
 
 		// Load the settings.
 		$this->init_form_fields();
@@ -39,7 +39,7 @@ class WC_Dropbox_Integration extends WC_Integration {
 			'api_key' => array(
 				'title'             => __( 'API Key', 'woocommerce-dropbox' ),
 				'type'              => 'text',
-				'description'       => __( 'Please provide your Dropbox API key. Please read <a href="#" target="_blank">these instructions</a> in order to obtain your API key.', 'woocommerce-dropbox' ),
+				'description'       => __( 'Please provide your Dropbox API key. Please read <a href="http://wordpress.org/plugins/woocommerce-dropbox/installation/" target="_blank">these instructions</a> in order to obtain your API key.', 'woocommerce-dropbox' ),
 				'desc_tip'          => false,
 				'default'           => ''
 			)
