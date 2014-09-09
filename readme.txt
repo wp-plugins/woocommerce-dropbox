@@ -2,7 +2,7 @@
 Contributors: Vadiem Janssens
 Tags: woocommerce, dropbox, downloadable product
 Requires at least: 3.9
-Tested up to: 3.9.2
+Tested up to: 4.0
 Stable tag: 1.0.0
 License: GPL v3
 
