@@ -13,7 +13,7 @@ The Dropbox extension for WooCommerce gives you the power and ease of use of ser
 through the Dropbox infrastructure. Easily choose a file from your Dropbox account via the Choose from Dropbox
 button and the plugin will do the rest.
 
-> Please carefully read the [installation instructions](http://www.wordpress.org/plugins/woocommerce-dropbox).
+> Please carefully read the [installation instructions](http://www.wordpress.org/plugins/woocommerce-dropbox/installation/).
 
 == Installation ==
 Important; make sure you have installed and activated WooCommerce.
